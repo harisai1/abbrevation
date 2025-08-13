@@ -32,7 +32,7 @@ const abbreviations = {
     "FYI": {
         full: "For your information.",
         desc: "FYI is used to share helpful or important information, typically in emails or chats.",
-        img: "./images/fyi.jpg"
+        img: "./images/fyI.jpg"
     },
     "TTYL": {
         full: "Talk to you later.",
